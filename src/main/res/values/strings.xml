@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MobileProject</string>
+    <string name="title">Title</string>
+
+    <string-array name="Pubs">
+       <item>An Bróg</item>
+       <item>Impala</item>
+       <item>The Raven</item>
+       <item>Brick Lane</item>
+       <item>Barbarella</item>
+    </string-array>
+    
+    <string-array name="Description">
+       <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris lacinia arcu id ligula posuere blandit.</item>
+       <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris lacinia arcu id ligula posuere blandit.</item>
+       <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris lacinia arcu id ligula posuere blandit.</item>
+       <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris lacinia arcu id ligula posuere blandit.</item>
+       <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris lacinia arcu id ligula posuere blandit.</item>
+    </string-array>
+</resources>
+
